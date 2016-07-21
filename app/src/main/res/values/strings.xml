@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">E速記</string>
+
+    <string name="hello_world">Hello world!</string>
+    <!--string name="action_settings">Settings</string-->
+    <string name="inputCharManual">文字入力方法</string>
+    <string name="inputSymbolManual">記号入力方法</string>
+    <string name="inputAGyouManual">あ行入力方法</string>
+    <string name="inputKAGyouManual">か行入力方法</string>
+    <string name="inputSAGyouManual">さ行入力方法</string>
+    <string name="inputTAGyouManual">た行入力方法</string>
+    <string name="inputNAGyouManual">な行入力方法</string>
+    <string name="inputHAGyouManual">は行入力方法</string>
+    <string name="inputMAGyouManual">ま行入力方法</string>
+    <string name="inputYAGyouManual">や行入力方法</string>
+    <string name="inputRAGyouManual">ら行入力方法</string>
+    <string name="inputWAGyouManual">わ行入力方法</string>
+    <string name="inputGAGyouManual">が行入力方法</string>
+    <string name="inputZAGyouManual">ざ行入力方法</string>
+    <string name="inputDAGyouManual">だ行入力方法</string>
+    <string name="inputBAGyouManual">ば行入力方法</string>
+    <string name="inputPAGyouManual">ぱ行入力方法</string>
+    <string name="inputlitteleAGyouManual">ぁ行入力方法</string>
+    <string name="inputlitteleYAGyouManual">ゃ行入力方法</string>
+    <string name="inputlitteleManual">小文字入力方法</string>
+    <string name="inputPlosiveManual">濁音入力方法</string>
+    <string name="inputHerfPlosiveManual">半濁音入力方法</string>
+    <string name="inputDev">ディベロッパー</string>
+</resources>

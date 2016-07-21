@@ -1,0 +1,67 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SlipGestures">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        >
+
+        <EditText
+            android:id="@+id/edittext"
+            android:text=""
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.5"
+            />
+
+        <TextView
+            android:id="@+id/hello_world"
+            android:text=""
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#ddd"
+            android:layout_weight="5"
+            />
+
+        <HorizontalScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="4.5"
+            >
+
+            <LinearLayout
+                android:id="@+id/linearlayout"
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                >
+
+
+
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+
+
+    </LinearLayout>
+
+
+
+    <com.example.ux21a.slipgestrues.CanvasView
+        android:id="@+id/cantesid"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="#ded"
+        />
+
+
+</LinearLayout>

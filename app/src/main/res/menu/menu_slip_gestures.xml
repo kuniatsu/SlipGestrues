@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".SlipGestures">
+    <item android:id="@+id/inputAGyouManual" android:title="@string/inputAGyouManual"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/inputKAGyouManual" android:title="@string/inputKAGyouManual"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/inputSAGyouManual" android:title="@string/inputSAGyouManual"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/inputTAGyouManual" android:title="@string/inputTAGyouManual"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/inputNAGyouManual" android:title="@string/inputNAGyouManual"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/inputHAGyouManual" android:title="@string/inputHAGyouManual"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/inputMAGyouManual" android:title="@string/inputMAGyouManual"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/inputYAGyouManual" android:title="@string/inputYAGyouManual"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/inputRAGyouManual" android:title="@string/inputRAGyouManual"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/inputWAGyouManual" android:title="@string/inputWAGyouManual"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/inputlitteleManual" android:title="@string/inputlitteleManual"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/inputPlosiveManual" android:title="@string/inputPlosiveManual"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/inputHerfPlosiveManual" android:title="@string/inputHerfPlosiveManual"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/inputSymbolManual" android:title="@string/inputSymbolManual"
+        android:orderInCategory="101" app:showAsAction="never" />
+    <item android:id="@+id/inputDev" android:title="@string/inputDev"
+        android:orderInCategory="101" app:showAsAction="never" />
+</menu>
