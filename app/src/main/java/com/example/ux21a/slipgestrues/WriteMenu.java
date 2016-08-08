@@ -374,7 +374,7 @@ public class WriteMenu {
             System.out.println("WriteMenu:ディベロッパーモード"+onOff);
 
         }else if(cha.equals("SETTING")) {
-
+            System.out.println("");
         }
         // viewリストからアダプタを作成しViewPagerにセット
         MyPagerAdapter mpa = new MyPagerAdapter(viewList);
